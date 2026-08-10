@@ -20,10 +20,11 @@ A Java and MySQL application developed as part of a Software Development team pr
 - UML
 
 ## My Contributions
-- Implemented employee search functionality
-- Designed database schema
-- Developed authentication/authorization features
-- Tested CRUD operations
+- Implemented employee search and data management functionality
+- Worked with MySQL database design and SQL queries
+- Contributed to authentication and role-based access control
+- Developed and executed functional test cases
+- Collaborated with team members on UML diagrams and system documentation
 
 ## Future Improvements
 - Password hashing
