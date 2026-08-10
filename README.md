@@ -25,9 +25,6 @@ A Java and MySQL application developed as part of a Software Development team pr
 - Developed authentication/authorization features
 - Tested CRUD operations
 
-## Screenshots
-(Add screenshots here)
-
 ## Future Improvements
 - Password hashing
 - Multi-factor authentication
